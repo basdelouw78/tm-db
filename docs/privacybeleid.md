@@ -71,6 +71,6 @@ Alle verbindingen van de app gaan versleuteld (https). Gegevens op je telefoon z
 Als de app verandert, passen we dit beleid aan. De datum hieronder laat zien wanneer dat voor het laatst gebeurde.
 
 ## 11. Contact
-Vragen over dit privacybeleid of de app? Mail naar **tuinmaatje@gmail.com**. In de app staat dit adres ook onder Instellingen → Over Tuinmaatje.
+Vragen over dit privacybeleid of de app? Mail naar **tuinmaatje.feedback@gmail.com**. In de app staat dit adres ook onder Instellingen → Over Tuinmaatje.
 
 *Laatst bijgewerkt: 26 oktober 2026.*
