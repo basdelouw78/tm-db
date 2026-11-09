@@ -6,7 +6,7 @@
 
 ## Nederlands
 
-Deze voorwaarden gelden voor de Android-app **Tuinmaatje**, in andere talen **Plotmate** (hierna: "de app"), gemaakt door B. de Louw (hierna: "wij" of "ons"). Door de app te gebruiken ga je akkoord met deze voorwaarden. Hoe wij met je gegevens omgaan, staat in het [privacybeleid](https://github.com/basdelouw78/tm-db/blob/main/docs/privacybeleid.md).
+Deze voorwaarden gelden voor de Android-app **Tuinmaatje**, in andere talen **Plotmate** (hierna: "de app"), gemaakt door bdlsoft (hierna: "wij" of "ons"). Door de app te gebruiken ga je akkoord met deze voorwaarden. Hoe wij met je gegevens omgaan, staat in het [privacybeleid](https://github.com/basdelouw78/tm-db/blob/main/docs/privacybeleid.md).
 
 ### 1. De app
 De app helpt je bij je moestuin: zaaien, verzorgen, oogsten en ziekten herkennen. Je kunt de app gratis downloaden en gebruiken. Een deel van de functies hoort bij **Plus**, dat je binnen de app één keer koopt.
@@ -46,7 +46,7 @@ Vragen over deze voorwaarden of de app? Mail naar **tuinmaatje.feedback@gmail.co
 
 ## English
 
-These terms apply to the Android app **Plotmate**, called **Tuinmaatje** in Dutch (the "app"), made by B. de Louw ("we" or "us"). By using the app you agree to these terms. How we handle your data is described in the [privacy policy](https://github.com/basdelouw78/tm-db/blob/main/docs/privacybeleid.md) (in Dutch).
+These terms apply to the Android app **Plotmate**, called **Tuinmaatje** in Dutch (the "app"), made by bdlsoft ("we" or "us"). By using the app you agree to these terms. How we handle your data is described in the [privacy policy](https://github.com/basdelouw78/tm-db/blob/main/docs/privacybeleid.md) (in Dutch).
 
 ### 1. The app
 The app helps you with your vegetable garden: sowing, care, harvest and recognising diseases. You can download and use it for free. Some features belong to **Plus**, which you buy once inside the app.
@@ -86,7 +86,7 @@ Questions about these terms or the app? Mail **tuinmaatje.feedback@gmail.com**. 
 
 ## Deutsch
 
-Diese Bedingungen gelten für die Android-App **Plotmate**, auf Niederländisch **Tuinmaatje** (die „App"), entwickelt von B. de Louw („wir" oder „uns"). Mit der Nutzung der App stimmst du diesen Bedingungen zu. Wie wir mit deinen Daten umgehen, steht in der [Datenschutzerklärung](https://github.com/basdelouw78/tm-db/blob/main/docs/privacybeleid.md) (auf Niederländisch).
+Diese Bedingungen gelten für die Android-App **Plotmate**, auf Niederländisch **Tuinmaatje** (die „App"), entwickelt von bdlsoft („wir" oder „uns"). Mit der Nutzung der App stimmst du diesen Bedingungen zu. Wie wir mit deinen Daten umgehen, steht in der [Datenschutzerklärung](https://github.com/basdelouw78/tm-db/blob/main/docs/privacybeleid.md) (auf Niederländisch).
 
 ### 1. Die App
 Die App hilft dir bei deinem Gemüsegarten: säen, pflegen, ernten und Krankheiten erkennen. Du kannst sie kostenlos herunterladen und nutzen. Ein Teil der Funktionen gehört zu **Plus**, das du einmalig in der App kaufst.
@@ -126,7 +126,7 @@ Fragen zu diesen Bedingungen oder zur App? Schreib an **tuinmaatje.feedback@gmai
 
 ## Français
 
-Ces conditions s'appliquent à l'application Android **Plotmate**, appelée **Tuinmaatje** en néerlandais (l'« application »), créée par B. de Louw (« nous »). En utilisant l'application, vous acceptez ces conditions. La façon dont nous traitons vos données est décrite dans la [politique de confidentialité](https://github.com/basdelouw78/tm-db/blob/main/docs/privacybeleid.md) (en néerlandais).
+Ces conditions s'appliquent à l'application Android **Plotmate**, appelée **Tuinmaatje** en néerlandais (l'« application »), créée par bdlsoft (« nous »). En utilisant l'application, vous acceptez ces conditions. La façon dont nous traitons vos données est décrite dans la [politique de confidentialité](https://github.com/basdelouw78/tm-db/blob/main/docs/privacybeleid.md) (en néerlandais).
 
 ### 1. L'application
 L'application vous aide au potager : semer, entretenir, récolter et reconnaître les maladies. Vous pouvez la télécharger et l'utiliser gratuitement. Une partie des fonctions fait partie de **Plus**, que vous achetez une seule fois dans l'application.

@@ -1,6 +1,6 @@
 # Privacybeleid voor Tuinmaatje (Plotmate)
 
-Dit privacybeleid geldt voor de Android-app Tuinmaatje, in andere talen Plotmate (hierna: "de app"), gemaakt door B. de Louw (hierna: "wij" of "ons"). De app helpt je je moestuin te plannen: zaaien, verzorgen, oogsten en ziekten herkennen.
+Dit privacybeleid geldt voor de Android-app Tuinmaatje, in andere talen Plotmate (hierna: "de app"), gemaakt door bdlsoft (hierna: "wij" of "ons"). De app helpt je je moestuin te plannen: zaaien, verzorgen, oogsten en ziekten herkennen.
 
 ## 1. In het kort
 - Je hebt **geen account** nodig.
@@ -73,4 +73,4 @@ Als de app verandert, passen we dit beleid aan. De datum hieronder laat zien wan
 ## 11. Contact
 Vragen over dit privacybeleid of de app? Mail naar **tuinmaatje.feedback@gmail.com**. In de app staat dit adres ook onder Instellingen → Over Tuinmaatje.
 
-*Laatst bijgewerkt: 26 oktober 2026.*
+*Laatst bijgewerkt: 9 november 2026.*
