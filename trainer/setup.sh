@@ -27,6 +27,18 @@ echo "== Packages"
 sudo apt-get update -q
 sudo apt-get install -y -q git curl jq ethtool gh ca-certificates python3-venv python3-pip
 
+echo "== Swap: a safety net on a computer with little memory (4 GB)"
+MEM_MB="$(awk '/MemTotal/ {print int($2 / 1024)}' /proc/meminfo)"
+SWAP_MB="$(awk '/SwapTotal/ {print int($2 / 1024)}' /proc/meminfo)"
+if [ "$MEM_MB" -lt 7000 ] && [ "$SWAP_MB" -lt 3500 ] && [ ! -f /swapfile-tuinmaatje ]; then
+  sudo fallocate -l 4G /swapfile-tuinmaatje
+  sudo chmod 600 /swapfile-tuinmaatje
+  sudo mkswap /swapfile-tuinmaatje > /dev/null
+  sudo swapon /swapfile-tuinmaatje
+  echo "/swapfile-tuinmaatje none swap sw 0 0" | sudo tee -a /etc/fstab > /dev/null
+fi
+free -h
+
 echo "== Python with PyTorch (CPU) in $TRAINER/venv"
 sudo mkdir -p "$TRAINER/data"
 sudo chown -R "$USER:" "$TRAINER"
