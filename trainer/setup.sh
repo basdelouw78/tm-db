@@ -61,6 +61,15 @@ sudo ./bin/installdependencies.sh > /dev/null
 if [ ! -f .runner ]; then
   read -rsp "Runner token (GitHub → Settings → Actions → Runners → New self-hosted runner): " TOKEN
   echo
+  # A token pasted from Windows can carry a carriage return or spaces, or be the whole
+  # "./config.sh --url … --token …" line: keep only the token itself.
+  TOKEN="$(printf '%s' "$TOKEN" | tr -d '\r')"
+  case "$TOKEN" in *--token*) TOKEN="${TOKEN##*--token}" ;; esac
+  TOKEN="$(printf '%s' "$TOKEN" | tr -d '[:space:]')"
+  if [ -z "$TOKEN" ]; then
+    echo "No token given; run this script again with the token at hand." >&2
+    exit 1
+  fi
   ./config.sh --url "https://github.com/$REPO" --token "$TOKEN" --name "$(hostname)-trainer" \
     --labels tuinmaatje-trainer --work _work --unattended --replace
   unset TOKEN
