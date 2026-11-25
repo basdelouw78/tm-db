@@ -25,7 +25,7 @@ fi
 
 echo "== Packages"
 sudo apt-get update -q
-sudo apt-get install -y -q git curl jq ethtool gh ca-certificates python3-venv python3-pip
+sudo apt-get install -y -q git curl jq ethtool gh ca-certificates python3-venv python3-pip libarchive-tools
 
 echo "== Swap: a safety net on a computer with little memory (4 GB)"
 MEM_MB="$(awk '/MemTotal/ {print int($2 / 1024)}' /proc/meminfo)"
